@@ -1,4 +1,4 @@
 Chrome-Plugin
 =============
 
-iHateKate Plugin for Google Chrome, removes comments from user HateKate
+iHateKate Plugin für Google Chrome. Überschreibt Kommentare des Nutzers HateKate auf Shortnews mit freundlichen Aussagen über den FC Bayern München.
