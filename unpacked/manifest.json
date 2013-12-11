@@ -1,0 +1,12 @@
+﻿{
+  "name": "SN HateKate Extension",
+  "version": "1.0",
+  "description": "Zeigt HateKate's wahre Meinung",
+  "content_scripts": [
+    {
+      "matches": ["http://www.shortnews.de/*"],
+      "js": ["jquery-2.0.3.min.js", "ihatekate.js"]
+    }
+  ],
+  "manifest_version": 2
+}
